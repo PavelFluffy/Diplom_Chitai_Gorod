@@ -29,14 +29,13 @@ https://fluffyracon.yonote.ru/share/f627af21-0315-4580-b707-b302e2bee08d
 ## Установка репозитория
 
 Клонируйте репозиторий и перейдите в его директорию:
+```bash
+git clone https://github.com/PavelFluffy/Diplom_Chitai_Gorod.git
+```
 
-    ```bash
-    git clone https://github.com/PavelFluffy/Diplom_Chitai_Gorod.git
-    ```
-
-    ```bash
-    cd .../Diplom_Chitai_Gorod
-    ```
+```bash
+cd .../Diplom_Chitai_Gorod
+```
 
 ## Получение токена
 1. Открыть браузер. Открыть **DevTools**`F12`. Обновить страницу с открым **DevTools**
