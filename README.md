@@ -33,6 +33,7 @@ https://fluffyracon.yonote.ru/share/f627af21-0315-4580-b707-b302e2bee08d
     ```bash
     git clone https://github.com/PavelFluffy/Diplom_Chitai_Gorod.git
     ```
+
     ```bash
     cd .../Diplom_Chitai_Gorod
     ```
